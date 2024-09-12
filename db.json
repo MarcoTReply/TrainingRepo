@@ -1,5 +1,5 @@
 {
-    "CreditCards": [
+    "creditCards": [
         {
             "id": 1,
             "title": "Il mio conto preferito",
