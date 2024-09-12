@@ -1,8 +1,10 @@
 {
-"posts": [
+"bankingMovements": [
     {
       "id": 1,
-      "title": "ciao"
+      "description": "descrizione movimento_1",
+      "date": "data movimento_1"
+      "money":"1500 €"
 }, {
 "id": 2,
       "title": "mondo"
