@@ -2,8 +2,8 @@
     "CreditCards": [
         {
             "id": 1,
-            "title": "Il mio conto preferito"
-            "balance": "54.123,05 €"
+            "title": "Il mio conto preferito",
+            "balance": "54.123,05 €",
             "iban": "IT56N0300203280437678473845"
         }
     ]
