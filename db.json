@@ -6,6 +6,12 @@
             "balance": "54.123,05 €",
             "iban": "IT56N0300203280437678473845"
         }
+        {
+            "id": 2,
+            "title": "Il mio secondo conto",
+            "balance": "2.500,05 €",
+            "iban": "IT56N0300203280437678473893"
+        }
     ],
 "bankingMovements": [
     {
