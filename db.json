@@ -19,7 +19,7 @@
             "id": 1,
             "description": "descrizione movimento_1",
             "date": "data movimento_1",
-            "money":1500
+            "money":1500000
         }, 
         {
             "id": 2,
